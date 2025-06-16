@@ -1,0 +1,90 @@
+{
+    "link": "https://my.f5.com/manage/s/new-updated-articles",
+    "title": "F5 Support Knowledge Base - Recent Additions and Updates",
+    "description": "Whether you have a specific technical question about an F5 product or you simply want general information about F5 solutions and services, the Ask F5 online database has the answer. Our RSS feeds are updated daily.",
+    "date": null,
+    "pubdate": null,
+    "author": null,
+    "entries": [
+        {
+            "link": "https://my.f5.com/manage/s/article/K000141008?utm_source=f5support&utm_medium=RSS",
+            "title": "K000141008: RADIUS authentication vulnerability CVE-2024-3596",
+            "date": "2025-06-13T16:39:16.000Z",
+            "pubdate": "2025-06-13T16:39:16.000Z",
+            "summary": "Security Advisory Description RADIUS Protocol under RFC 2865 is susceptible to forgery attacks by a local attacker who can modify any valid Response (Access-Accept, Access-Reject, or Access- ...",
+            "description": "Security Advisory Description RADIUS Protocol under RFC 2865 is susceptible to forgery attacks by a local attacker who can modify any valid Response (Access-Accept, Access-Reject, or Access- ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151819?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151819: PowerDNS vulnerability CVE-2018-16855",
+            "date": "2025-06-12T16:45:09.000Z",
+            "pubdate": "2025-06-12T16:45:09.000Z",
+            "summary": "Security Advisory Description An issue has been found in PowerDNS Recursor before version 4.1.8 where a remote attacker sending a DNS query can trigger an out-of-bounds memory read while computing ...",
+            "description": "Security Advisory Description An issue has been found in PowerDNS Recursor before version 4.1.8 where a remote attacker sending a DNS query can trigger an out-of-bounds memory read while computing ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000141463?utm_source=f5support&utm_medium=RSS",
+            "title": "K000141463: Angular JS vulnerabilities CVE-2019-10768 and CVE-2023-26116",
+            "date": "2025-06-11T15:08:31.000Z",
+            "pubdate": "2025-06-11T15:08:31.000Z",
+            "summary": "Security Advisory Description CVE-2019-10768 In AngularJS before 1.7.9 the function `merge()` could be tricked into adding or modifying properties of `Object.prototype` using a `__proto__` payload.",
+            "description": "Security Advisory Description CVE-2019-10768 In AngularJS before 1.7.9 the function `merge()` could be tricked into adding or modifying properties of `Object.prototype` using a `__proto__` payload."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000139594?utm_source=f5support&utm_medium=RSS",
+            "title": "K000139594: libxml2 vulnerability CVE-2022-40304",
+            "date": "2025-06-11T05:27:12.000Z",
+            "pubdate": "2025-06-11T05:27:12.000Z",
+            "summary": "Security Advisory Description An issue was discovered in libxml2 before 2.10.3. Certain invalid XML entity definitions can corrupt a hash table key, potentially leading to subsequent logic errors.",
+            "description": "Security Advisory Description An issue was discovered in libxml2 before 2.10.3. Certain invalid XML entity definitions can corrupt a hash table key, potentially leading to subsequent logic errors."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151516?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151516: Python urllib vulnerability CVE-2019-9947",
+            "date": "2025-06-11T05:18:25.000Z",
+            "pubdate": "2025-06-11T05:18:25.000Z",
+            "summary": "Security Advisory Description An issue was discovered in urllib2 in Python 2.x through 2.7.16 and urllib in Python 3.x through 3.7.3. CRLF injection is possible if the attacker controls a url ...",
+            "description": "Security Advisory Description An issue was discovered in urllib2 in Python 2.x through 2.7.16 and urllib in Python 3.x through 3.7.3. CRLF injection is possible if the attacker controls a url ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000148494?utm_source=f5support&utm_medium=RSS",
+            "title": "K000148494: SQLite vulnerability CVE-2020-13631",
+            "date": "2025-06-11T05:04:31.000Z",
+            "pubdate": "2025-06-11T05:04:31.000Z",
+            "summary": "Security Advisory Description SQLite before 3.32.0 allows a virtual table to be renamed to the name of one of its shadow tables, related to alter.c and build.c. (CVE-2020-13631) Impact A local, ...",
+            "description": "Security Advisory Description SQLite before 3.32.0 allows a virtual table to be renamed to the name of one of its shadow tables, related to alter.c and build.c. (CVE-2020-13631) Impact A local, ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151779?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151779: Node.js vulnerabilities CVE-2025-23083 and CVE-2025-23085",
+            "date": "2025-06-10T20:46:59.000Z",
+            "pubdate": "2025-06-10T20:46:59.000Z",
+            "summary": "Security Advisory Description CVE-2025-23083 With the aid of the diagnostics_channel utility, an event can be hooked into whenever a worker thread is created. This is not limited only to workers ...",
+            "description": "Security Advisory Description CVE-2025-23083 With the aid of the diagnostics_channel utility, an event can be hooked into whenever a worker thread is created. This is not limited only to workers ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151753?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151753: Linux kernel vulnerability CVE-2024-38598",
+            "date": "2025-06-09T07:19:40.000Z",
+            "pubdate": "2025-06-09T07:19:40.000Z",
+            "summary": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: md: fix resync softlockup when bitmap size is less than array size Is is reported that for dm- ...",
+            "description": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: md: fix resync softlockup when bitmap size is less than array size Is is reported that for dm- ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151742?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151742: REXML vulnerability CVE-2024-43398",
+            "date": "2025-06-06T20:25:00.000Z",
+            "pubdate": "2025-06-06T20:25:00.000Z",
+            "summary": "Security Advisory Description REXML is an XML toolkit for Ruby. The REXML gem before 3.3.6 has a DoS vulnerability when it parses an XML that has many deep elements that have same local name ...",
+            "description": "Security Advisory Description REXML is an XML toolkit for Ruby. The REXML gem before 3.3.6 has a DoS vulnerability when it parses an XML that has many deep elements that have same local name ..."
+        },
+        {
+            "link": "https://my.f5.com/manage/s/article/K000151739?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151739: Linux kernel vulnerability CVE-2024-47745",
+            "date": "2025-06-06T16:01:21.000Z",
+            "pubdate": "2025-06-06T16:01:21.000Z",
+            "summary": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: mm: call the security_mmap_file() LSM hook in remap_file_pages() The remap_file_pages syscall ...",
+            "description": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: mm: call the security_mmap_file() LSM hook in remap_file_pages() The remap_file_pages syscall ..."
+        }
+    ]
+}
