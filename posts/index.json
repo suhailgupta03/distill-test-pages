@@ -7,6 +7,14 @@
     "author": null,
     "entries": [
         {
+            "link": "https://my.f5.com/manage/s/article/K000151869?utm_source=f5support&utm_medium=RSS",
+            "title": "K000151869: libexpat vulnerability CVE-2024-8176",
+            "date": "2025-06-16T00:58:48.000Z",
+            "pubdate": "2025-06-16T00:58:48.000Z",
+            "summary": "Security Advisory Description A stack overflow vulnerability exists in the libexpat library due to the way it handles recursive entity expansion in XML documents. When parsing an XML document with ...",
+            "description": "Security Advisory Description A stack overflow vulnerability exists in the libexpat library due to the way it handles recursive entity expansion in XML documents. When parsing an XML document with ..."
+        },
+        {
             "link": "https://my.f5.com/manage/s/article/K000141008?utm_source=f5support&utm_medium=RSS",
             "title": "K000141008: RADIUS authentication vulnerability CVE-2024-3596",
             "date": "2025-06-13T16:39:16.000Z",
@@ -77,14 +85,6 @@
             "pubdate": "2025-06-06T20:25:00.000Z",
             "summary": "Security Advisory Description REXML is an XML toolkit for Ruby. The REXML gem before 3.3.6 has a DoS vulnerability when it parses an XML that has many deep elements that have same local name ...",
             "description": "Security Advisory Description REXML is an XML toolkit for Ruby. The REXML gem before 3.3.6 has a DoS vulnerability when it parses an XML that has many deep elements that have same local name ..."
-        },
-        {
-            "link": "https://my.f5.com/manage/s/article/K000151739?utm_source=f5support&utm_medium=RSS",
-            "title": "K000151739: Linux kernel vulnerability CVE-2024-47745",
-            "date": "2025-06-06T16:01:21.000Z",
-            "pubdate": "2025-06-06T16:01:21.000Z",
-            "summary": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: mm: call the security_mmap_file() LSM hook in remap_file_pages() The remap_file_pages syscall ...",
-            "description": "Security Advisory Description In the Linux kernel, the following vulnerability has been resolved: mm: call the security_mmap_file() LSM hook in remap_file_pages() The remap_file_pages syscall ..."
         }
     ]
 }
