@@ -22,6 +22,11 @@
             .glow {
                 text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.3);
             }
+            .hidden-fruit-item {
+                color: green;
+                font-weight: bold;
+                display: none;
+            }
         </style>
     </head>
     <body>
@@ -56,6 +61,25 @@
                 <li>fig</li>
                 <li>grape</li>
             </ul>
+        </div>
+        <div>
+            <div>
+                <h2>List of Fruits</h2>
+                <ul>
+                    <li>Apple</li>
+                    <li>Banana</li>
+                    <li class="hidden-fruit-item">
+                        <p style="color: maroon;">Cherry</p>
+                        <p>..</p>
+                        <p>>></p>
+                        <p>++</p>
+                    </li>
+                    <li style="display: none; color: red; background-color: aqua;">Date</li>
+                    <li>Elderberry</li>
+                    <li>Fig</li>
+                    <li>Grape</li>
+                </ul>
+            </div>
         </div>
     </body>
 </html>
