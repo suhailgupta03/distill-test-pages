@@ -16,6 +16,12 @@
             .menu.active {
                 display: flex;
             }
+            .hidden {
+                display: none;
+            }
+            .glow {
+                text-shadow: 0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.3);
+            }
         </style>
     </head>
     <body>
@@ -40,13 +46,14 @@
             <h2 id="contact">Contact Section</h2>
             <p>Here you can find contact information.</p>
         </div>
-        <div>
+        <div class="hidden glow">
             <ul>
                 <li>apple</li>
                 <li>banana</li>
                 <li>cherry</li>
-                <li>date</li>
+                <li style="display: none; color: maroon;">date</li>
                 <li>elderberry</li>
+                <li>fig</li>
             </ul>
         </div>
     </body>
