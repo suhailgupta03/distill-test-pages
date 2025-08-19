@@ -5,7 +5,8 @@ const path = require('path');
 
 function main() {
     const action = process.argv[2];
-    const htmlPath = path.join(__dirname, 'index.html');
+    const file = process.argv[3];
+    const htmlPath = path.join(__dirname, file || 'index.html');
     
     if (!action || (action !== 'add' && action !== 'remove')) {
         console.log('Usage: node modify-html.js <add|remove>');
