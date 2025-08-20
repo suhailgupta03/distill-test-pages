@@ -6,7 +6,7 @@ const path = require('path');
 function main() {
     const action = process.argv[2];
     const file = process.argv[3];
-    const htmlPath = path.join(__dirname, file || 'index.html');
+    const htmlPath = path.join(__dirname, file || 'long-test-page-name-to-test-sms-encoding.html');
     
     if (!action || (action !== 'add' && action !== 'remove')) {
         console.log('Usage: node modify-html.js <add|remove>');
